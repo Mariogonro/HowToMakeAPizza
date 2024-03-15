@@ -43,6 +43,7 @@
 - Queso mozzarella rallado
 - Jamón
 - Piña en cuadros
+- Orégano (opcional)
 
 ## Instrucciones:
 1. Precalentar el horno a 200°C.
@@ -53,3 +54,4 @@
 6. Colocar los cuadros de piña sobre el jamón.
 7. Hornear la pizza en el horno precalentado durante 12-15 minutos o hasta que la masa esté dorada y el queso esté burbujeante.
 8. Retirar la pizza del horno y dejarla reposar unos minutos antes de cortarla en porciones.
+9. Opcionalmente, espolvorear un poco de orégano sobre la pizza.
