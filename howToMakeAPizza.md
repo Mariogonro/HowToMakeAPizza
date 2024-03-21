@@ -56,3 +56,28 @@
 7. Hornear la pizza en el horno precalentado durante 12-15 minutos o hasta que la masa esté dorada y el queso esté burbujeante.
 8. Retirar la pizza del horno y dejarla reposar unos minutos antes de cortarla en porciones.
 9. Opcionalmente, espolvorear un poco de orégano sobre la pizza.
+
+### Cambios Felipe Calvache
+# Receta de Pizza tres quesos 
+
+## Ingredientes:
+- Agua
+- Sal
+- Leche
+- Levadura
+- Huevo
+- Azucar
+- Pasta de tomate
+- Queso Holandes rallado
+- Queso Parmesano rallado
+- Queso Provolone rallado
+
+## Instrucciones:
+1. Precalentar el horno a 200°C.
+2. Mesclar en un bowl agua, leche, sal, azucar y el huevo hasta crear una masa omogenea.
+3. Extender la masa para pizza en una bandeja para hornear previamente engrasada.
+4. Cubrir la masa con una capa uniforme de salsa de tomate.
+5. Esparcir generosamente los quesos rallados sobre la salsa.
+6. Hornear la pizza en el horno precalentado durante 12-15 minutos o hasta que la masa esté dorada y el queso esté burbujeante.
+7. Retirar la pizza del horno y dejarla reposar unos minutos antes de cortarla en porciones.
+8. Opcionalmente, espolvorear un poco de orégano sobre la pizza.
